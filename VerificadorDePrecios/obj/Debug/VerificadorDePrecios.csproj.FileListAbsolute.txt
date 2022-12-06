@@ -1,0 +1,41 @@
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ DE SW\VerificadorDePrecios\VerificadorDePrecios\bin\Debug\VerificadorDePrecios.exe.config
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ DE SW\VerificadorDePrecios\VerificadorDePrecios\bin\Debug\VerificadorDePrecios.exe
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ DE SW\VerificadorDePrecios\VerificadorDePrecios\bin\Debug\VerificadorDePrecios.pdb
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ DE SW\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.csproj.AssemblyReference.cache
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ DE SW\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.Form1.resources
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ DE SW\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.Properties.Resources.resources
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ DE SW\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.csproj.GenerateResource.cache
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ DE SW\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.csproj.CoreCompileInputs.cache
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ DE SW\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.exe
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ DE SW\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.pdb
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\VerificadorDePrecios\VerificadorDePrecios\bin\Debug\VerificadorDePrecios.exe.config
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\VerificadorDePrecios\VerificadorDePrecios\bin\Debug\VerificadorDePrecios.exe
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\VerificadorDePrecios\VerificadorDePrecios\bin\Debug\VerificadorDePrecios.pdb
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.csproj.AssemblyReference.cache
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.Form1.resources
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.Properties.Resources.resources
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.csproj.GenerateResource.cache
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.csproj.CoreCompileInputs.cache
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.exe
+E:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\VerificadorDePrecios\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.pdb
+D:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\Repositorios\verificadordeprecioscsharp\VerificadorDePrecios\bin\Debug\VerificadorDePrecios.exe.config
+D:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\Repositorios\verificadordeprecioscsharp\VerificadorDePrecios\bin\Debug\VerificadorDePrecios.exe
+D:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\Repositorios\verificadordeprecioscsharp\VerificadorDePrecios\bin\Debug\VerificadorDePrecios.pdb
+D:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\Repositorios\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.csproj.AssemblyReference.cache
+D:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\Repositorios\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.Form1.resources
+D:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\Repositorios\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.Properties.Resources.resources
+D:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\Repositorios\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.csproj.GenerateResource.cache
+D:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\Repositorios\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.csproj.CoreCompileInputs.cache
+D:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\Repositorios\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.exe
+D:\mamadas del chiflo\Escuela\1.UTH\Asignaturas\ING\ARQ\Repositorios\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.pdb
+C:\Users\Armando\Desktop\verificadordeprecioscsharp\VerificadorDePrecios\bin\Debug\VerificadorDePrecios.exe.config
+C:\Users\Armando\Desktop\verificadordeprecioscsharp\VerificadorDePrecios\bin\Debug\VerificadorDePrecios.exe
+C:\Users\Armando\Desktop\verificadordeprecioscsharp\VerificadorDePrecios\bin\Debug\VerificadorDePrecios.pdb
+C:\Users\Armando\Desktop\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.csproj.AssemblyReference.cache
+C:\Users\Armando\Desktop\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.csproj.SuggestedBindingRedirects.cache
+C:\Users\Armando\Desktop\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.Form1.resources
+C:\Users\Armando\Desktop\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.Properties.Resources.resources
+C:\Users\Armando\Desktop\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.csproj.GenerateResource.cache
+C:\Users\Armando\Desktop\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.csproj.CoreCompileInputs.cache
+C:\Users\Armando\Desktop\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.exe
+C:\Users\Armando\Desktop\verificadordeprecioscsharp\VerificadorDePrecios\obj\Debug\VerificadorDePrecios.pdb
